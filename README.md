@@ -1,6 +1,6 @@
 ## Retail Inventory Management
 
-# Intrtoduction:
+# Introduction:
 A simple python console program for track of products in a small shop by using basic python skills,like tuple,dictionary,set,if,elif,else,functions.
 
 # What the program does?
@@ -19,8 +19,8 @@ The program shows a menu with these options:
 2. Terminal or command prompt or visual studio code.
 
 # How to Run:
-1. Save the python program as inventory.py.
-2. Open terminal and type python inventory.py and press enter.
+1. Save the python program as **inventory.py**.
+2. Open terminal and type python **inventory.py** and press enter.
 3. Choose a number from menu and enjoy the program.
 
 # Input Rules:
@@ -49,4 +49,4 @@ The data is stored in memory only.Products are not save in file or database,so t
 4. The program starts with an empty inventory,so products need to be entered manually before testing the reports.
 
 # Project file
-. inventory.py --the main python program.
+ **inventory.py** --the main python program.
