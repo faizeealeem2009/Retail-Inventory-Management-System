@@ -196,6 +196,5 @@ def main():
             print("Invalid Choice!")
 
 # Calling Main Function
-main()
-print(products)
-        
+if __name__=="__main__":
+    main()
